@@ -3,4 +3,6 @@
   - cloner le [projet] en utilisant le lien  qui ce trouve dans le repertories
   - cd [projet]
   - lien de heroku pour tester le système d'authentication
+   https://authentifation-laravel7.herokuapp.com/
   
+ - En vous inscrivant au préalable
